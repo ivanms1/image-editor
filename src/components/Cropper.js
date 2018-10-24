@@ -9,6 +9,7 @@ const Cropper = ({preview, handleCrop, crop}) => (
 		maxWidth={50}
 		maxHeight={50}
 		crop={crop}/>
+		<button>Crop!</button>
 	</div>
 );
 
