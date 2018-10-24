@@ -1,0 +1,30 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.uploader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.preview {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+}
+
+.preview img {
+  width: 100%;
+}
+
+.cropper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
